@@ -1,0 +1,12 @@
+{
+  "name": "lmdb-wsl-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:paberr/lmdb-wsl-bug.git",
+  "author": "pascal@nimiq.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@nimiq/jungle-db": "^0.9.14"
+  }
+}
